@@ -18,5 +18,5 @@ A collection of interactive projects built using Java and Processing.
 This project uses the Processing library.
 
 To run:
-1. Install Processing OR add processing-core.jar to your project
+1. Install Processing OR add processing-core.jar to your project.
 2. Run the main class using PApplet.
